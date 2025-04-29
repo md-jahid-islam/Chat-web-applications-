@@ -48,7 +48,7 @@ const LoginComponents = () => {
         draggable: true,
       });
       console.log('Login Data:', formData);
-      navigate('/dashboard'); 
+      navigate('/ChatWeb'); 
     }
   };
 
